@@ -10,6 +10,9 @@ How to run:
 2. Open the files using PyCharm.
 3. Run the code and test it out!
 
+Extra Note:
+venv is required to run the application.
+
 Developer: WrenSec a.k.a Dovydas Rybakas
 Developed on: 31/08/2022
 IDE used: PyCharm Community Edition 2022.2.1
